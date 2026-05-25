@@ -1,9 +1,7 @@
-# kungatsering
+# Kunga Tsering Resume
 
-这是一个简单的静态示例项目。
+Static bilingual resume website for Kunga Tsering, with English, Chinese, and Tibetan language states.
 
-## 运行方式
+Publish target:
 
-1. 打开 `index.html`。
-2. 在浏览器中查看页面。
-3. 点击“点击运行”按钮即可看到运行结果。
+`https://Losuum.github.io/kungatsering/`
